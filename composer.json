@@ -1,4 +1,7 @@
 {
+    "name": "samtarling/wpgraphs",
+    "description": "Does API queries against https://en.wikipedia.org, updates a database with counts of things and shows pretty graphs",
+    "license": "MIT",
     "require": {
         "squizlabs/php_codesniffer": "^3.5",
         "guzzlehttp/guzzle": "^7.0"
